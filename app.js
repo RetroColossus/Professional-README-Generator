@@ -92,7 +92,12 @@ const questions = [
         message: 'What kind of license does this project contain?',
         choices: ['MIT', 'ISC', 'Apache-2.0', 'GPL-3.0', 'BSD-3-Clause', 'UNLICENSED']
     },
-   
+    // contribution / collaborators (optional)
+    {
+        type: 'input',
+        name: 'contribution',
+        message: 'Please enter the contributing members for this project:',
+    },
     // test instructions (optional)
     {
         type: 'input',
