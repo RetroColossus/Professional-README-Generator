@@ -98,12 +98,7 @@ const questions = [
         name: 'contribution',
         message: 'Please enter the contributing members for this project:',
     },
-    // test instructions (optional)
-    {
-        type: 'input',
-        name: 'testing',
-        message: 'Please enter any testing information for this project:',
-    },
+    
 ]
 
 function start(){

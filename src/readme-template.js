@@ -37,11 +37,6 @@ ${renderBadge(res.license)}
 ## Contributing
 ${res.contribution} 
 
-<div id='Tests'/>
-
-## Tests
-${res.testing}
-
 <div id='Questions'/>
 
 ## Questions

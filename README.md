@@ -1,5 +1,5 @@
 
-# das
+# professional-README-generator
 
 ## Table of Contents
 - [Description](#Description)
@@ -7,23 +7,22 @@
 - [Usage](#Usage)
 - [License](#License)
 - [Contributing](#Contributing)
-- [Tests](#Tests)
 - [Questions](#Questions)
 
 <div id='Desciption'/>
 
 ## Description
-d
+This is a node.js tool that helps users generate a README for their projects
 
 <div id='Installation'/>
 
 ## Installation
-as
+npm i
 
 <div id='Usage'/>
 
 ## Usage
-da
+To generate a README
 
 <div id='License'/>
 
@@ -34,12 +33,7 @@ MIT
 <div id='Contributing'/>
 
 ## Contributing
-ada 
-
-<div id='Tests'/>
-
-## Tests
-dad
+Dan Thomas 
 
 <div id='Questions'/>
 
@@ -47,5 +41,5 @@ dad
 For additional questions or concerns regarding this project, please contact the information below:
 
 **Contact information**  
-GitHub: github.com/tets  
-Email: da
+GitHub: github.com/RetroColossus  
+Email: daniel.thomas215@hotmail.com
