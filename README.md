@@ -1,5 +1,8 @@
 
 # professional-README-generator
+ 
+## Github: https://github.com/RetroColossus/Professional-README-Generator
+## Walkthrough Video: https://drive.google.com/file/d/1ycVaGv9erccfL-CadYJkArDPSd2vqmNT/view?usp=sharing
 
 ## Table of Contents
 - [Description](#Description)
@@ -43,3 +46,7 @@ For additional questions or concerns regarding this project, please contact the 
 **Contact information**  
 GitHub: github.com/RetroColossus  
 Email: daniel.thomas215@hotmail.com
+
+## Screenshots
+
+![](https://github.com/RetroColossus/Weather-Dashboard/blob/main/assets/images/weather.app.JPG)
