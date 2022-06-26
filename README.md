@@ -50,3 +50,4 @@ Email: daniel.thomas215@hotmail.com
 ## Screenshots
 
 ![](https://github.com/RetroColossus/Professional-README-Generator/blob/main/src/imgs/readme-preview.JPG)
+![](https://github.com/RetroColossus/Professional-README-Generator/blob/main/src/imgs/readme.code.JPG)
