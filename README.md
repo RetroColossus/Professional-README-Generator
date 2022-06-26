@@ -49,4 +49,4 @@ Email: daniel.thomas215@hotmail.com
 
 ## Screenshots
 
-![](https://github.com/RetroColossus/Weather-Dashboard/blob/main/assets/images/weather.app.JPG](https://github.com/RetroColossus/Professional-README-Generator/blob/main/src/imgs/readme-preview.JPG)
+![](https://github.com/RetroColossus/Professional-README-Generator/blob/main/src/imgs/readme-preview.JPG)
